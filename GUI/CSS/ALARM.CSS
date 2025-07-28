@@ -1,0 +1,71 @@
+<style type="text/css">
+		.tdodd{
+			background-color:#99AE7E;
+		}
+		.tabletext{
+			font-style:italic;
+			font-style:bold;
+			font-family:Candara;
+		}
+		#table {
+				width: 100%;
+				border: 1px solid #e3e7e7;
+		}
+		#table p {
+				clear: both;
+				width: 100%;
+				margin: 0;
+		}
+		#table span {
+				float: left;
+				padding: 0 10px;
+				border-left: 1px solid #e3e7e7;
+				border-bottom: 1px solid #e3e7e7;
+		}
+		
+		#table span.sp1, span.sp2{
+			width: 80px;
+			height: 25px;
+			text-align: center;
+			font: 11px Verdana, Arial, Helvetica, sans-serif;
+		}
+		
+		#table span.sp3 {
+			width: 185px;
+			height: 25px;
+			text-align: left;
+			font: 11px Verdana, Arial, Helvetica, sans-serif;
+		}
+		
+		#table span.sp4 {
+			width: 51px;
+			height: 25px;
+			text-align: center;
+			font: 11px Verdana, Arial, Helvetica, sans-serif;
+		}
+		
+		#table span.head1, span.head2{
+			background-color: #C4AE7C;
+			width: 80px;
+			height: 20px;
+			text-align: center;
+			font: bold 12px Verdana, Arial, Helvetica, sans-serif;
+		}
+		
+		#table span.head3 {
+			background-color: #C4AE7C;
+			width: 185px;
+			height: 20px;
+			font: bold 12px Verdana, Arial, Helvetica, sans-serif;
+			text-align: left;
+		}
+		
+		#table span.head4 {
+			background-color: #C4AE7C;
+			width: 51px;
+			height: 20px;
+			font: bold 12px Verdana, Arial, Helvetica, sans-serif;
+			text-align: center;
+		}
+		
+</style>
