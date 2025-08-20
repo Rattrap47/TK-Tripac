@@ -12,3 +12,6 @@ If you want to keep your old prefix, you can create a new, isolated one:
     export WINEPREFIX=$HOME/myapp/prefix
     export WINEARCH=win32 # or win64 if needed
     wineboot --init
+
+20250817 - Loaded 32bit PiOS image to force 32bit compliance for the above issue
+
